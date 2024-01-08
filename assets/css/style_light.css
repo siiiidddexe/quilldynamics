@@ -257,12 +257,13 @@ section {
   padding: 8px 20px;
   margin-left: 30px;
   border-radius: 4px;
-  color: #fff;
+  color: #ffff;
+  background:#fff;
 }
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  color: #fff;
+  color: #ffff;
   background: #5969f3;
 }
 
